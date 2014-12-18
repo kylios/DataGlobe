@@ -27,3 +27,7 @@ h1, p {
   -webkit-user-select: none;
   user-select: none;
 }
+
+#globe_container {
+    background: #000;
+}
